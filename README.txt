@@ -10,7 +10,7 @@ this is simple contact management program
 
 ---------> can delete the contacts from the list
 
-this program is usefull to make contact list in hospitals,class,school,colleges,etc
+this program is usefull to make contact list in hospitals,class,school,colleges,etc.
 
 **************************************************************************************************
 
